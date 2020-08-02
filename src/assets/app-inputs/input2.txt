@@ -1,0 +1,2 @@
+1,imported box of chocolate,10.00,Y,Y
+1,imported bottle of perfume,47.50,N,Y

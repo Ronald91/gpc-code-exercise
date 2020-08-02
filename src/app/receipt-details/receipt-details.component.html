@@ -1,0 +1,12 @@
+<mat-card *ngIf="itemsToDisplay" class="example-card">
+  <mat-card-header>
+    <mat-card-title>Output</mat-card-title>
+  </mat-card-header>
+  <mat-card-content>
+    <div *ngFor="let item of itemsToDisplay; index as i">
+      <p>{{ item.quantity }} {{ item.description }}: {{ item.price }}</p>
+    </div>
+    <p>Sales Taxes: {{ salesTaxes }}</p>
+    <p>Total: {{ total }}</p>
+  </mat-card-content>
+</mat-card>

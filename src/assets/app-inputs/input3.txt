@@ -1,0 +1,4 @@
+1,imported bottle of perfume,27.99,N,Y
+1,bottle of perfume,18.99,N,N
+1,packet of headache pills,9.75,Y,N
+1,box of imported chocolates,11.25,Y,Y

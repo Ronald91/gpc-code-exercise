@@ -1,5 +1,9 @@
 # GpcCodeExercise
 
+To run this exercise locally clone the repo, navigate to the project directory, run npm install, and run ng serve.
+
+To test click on Choose File and choose one of the input files within the assets/app-inputs folder of the project; then click on Process Input File.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
 
 ## Development server

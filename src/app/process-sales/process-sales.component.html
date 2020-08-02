@@ -1,0 +1,8 @@
+<div>
+  <form>
+    <input type="file" accept=".txt" (change)="fileUploaded($event)"/>
+    <button *ngIf="file" mat-raised-button color="primary" (click)="readFile()">
+      Process Input File
+    </button>
+  </form>
+</div>
